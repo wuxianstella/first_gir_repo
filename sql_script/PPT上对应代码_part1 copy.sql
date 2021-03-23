@@ -1,6 +1,4 @@
-###### SQL Class4 ######
-########################
-########################
+
 
 
 SELECT prod_id, prod_name, prod_price FROM Products;
